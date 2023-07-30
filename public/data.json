@@ -1,0 +1,17 @@
+[
+    {
+        "image": "https://i.ibb.co/zxLR8Yx/js.jpg",
+        "project": "JavaScript Project",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus, nesciunt! Sequi, possimus tenetur. Saepe minus quo fugiat ea nostrum libero, architecto quae nobis illo reprehenderit perferendis, minima, voluptatum unde eos!"
+    },
+    {
+        "image": "https://i.ibb.co/fqSKSJr/ui.jpg",
+        "project": "UI / UX Design Project",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus, nesciunt! Sequi, possimus tenetur. Saepe minus quo fugiat ea nostrum libero, architecto quae nobis illo reprehenderit perferendis, minima, voluptatum unde eos!"
+    },
+    {
+        "image": "https://i.ibb.co/PgH1Z3J/soft.jpg",
+        "project": "Software Development Project",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus, nesciunt! Sequi, possimus tenetur. Saepe minus quo fugiat ea nostrum libero, architecto quae nobis illo reprehenderit perferendis, minima, voluptatum unde eos!"
+    }
+]
